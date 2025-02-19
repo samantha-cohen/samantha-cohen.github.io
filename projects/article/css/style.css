@@ -1,0 +1,30 @@
+
+img {
+    width: 75%;
+}
+
+
+body {
+    background-color: #d9f5cb;
+    color: #191C0E;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    line-height: 1.5;
+}
+.info {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+    font-size: 1.1em;
+    background-color:khaki;
+    margin: 3em 0;
+    padding: 1em;
+
+}
+
+#unique-image { "graphic"
+    width: 100px;
+  }
+
+
+
+
+
