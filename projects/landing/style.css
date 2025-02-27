@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+body {
+    font-family: "Open Sans", serif;
+    font-size: 14px;
+    color: aliceblue;
+    background-color: black
+}
+
+header img {
+    margin: 0 auto;
+    display: block;
+    width: 40%;
+}
+
+.nav-link {
+    color: #FBFFFF;
+    text-decoration: none;
+    letter-spacing: 1.6 px;
+    padding: 2em;
+    font-weight: 500;
+    font-size: 1em;
+}
+
+section .nav-link:hover {
+    color: darkmagenta
+}
+
+main {
+    background-color: gray
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+h1 {
+    font-family: "Bebas Neue", serif;
+}
+
+footer {
+    font-weight: 600;
+    font-size: medium;
+    padding: 3em 0;
+    text-align: center;
+    font-family: "Bebas Neue", serif
+}
