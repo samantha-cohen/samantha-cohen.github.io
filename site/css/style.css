@@ -1,6 +1,61 @@
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap');
 
 body {
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 14px;
+    color: white;
+    background-color: lightslategray;
+}
+
+header {
+    border-bottom: 2px solid white;
+    background-color: white;
+
+}
+
+
+nav {
+    padding: 2em 0;
+    text-align: center;
+    word-spacing: 2em;
+    color:lightslategray
+    
+}
+
+
+
+main {
+    padding: 2em 0;
+}
+
+a {
+    color: white;
+    letter-spacing: 1px;
+    /* padding: 2em; */
+    font-weight: 400;
+    /* font-size: 1em; */
+}
+
+h1,
+h2 {
     font-family: "Bebas Neue", sans-serif;
 }
 
+.headshot {
+    border-radius: 20%;
+    padding: 0 0 1em 0;
+}
+
+.subtext {
+    text-align: right;
+}
+
+
+
+img {
+    margin: 0;
+    display: block;
+    width: 100%;
+}
