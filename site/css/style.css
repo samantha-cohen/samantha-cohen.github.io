@@ -20,28 +20,43 @@ nav {
     padding: 2em 0;
     text-align: center;
     word-spacing: 2em;
-    color:lightslategray
+    :hover
+
     
 }
 
-
+a:hover {
+    color: silver;
+}
 
 main {
     padding: 2em 0;
+
 }
 
 a {
     color: white;
-    letter-spacing: 1px;
+    letter-spacing: .5px;
     /* padding: 2em; */
     font-weight: 400;
     /* font-size: 1em; */
+    
 }
 
+
+nav a { 
+    color: lightslategray
+}
 h1,
 h2 {
     font-family: "Bebas Neue", sans-serif;
 }
+h3{ 
+    font-size: medium;
+    font-weight: 600;
+}
+
+
 
 .headshot {
     border-radius: 20%;
