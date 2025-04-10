@@ -89,3 +89,13 @@ footer {
     padding-right: 200px;
 
 }
+
+@media (max-width: 768px) {
+    h1 {
+        font-size: 3em;
+    }
+
+    .container {
+        width: 95%;
+    }
+}
