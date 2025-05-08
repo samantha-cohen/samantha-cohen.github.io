@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400..700;1,400..700&family=Rubik:ital,wght@0,300..900;1,300..900&family=Special+Gothic+Condensed+One&display=swap');
+
+body {
+    background-color:lightskyblue;
+    color: white;
+    font-family: "Rubik", sans-serif;
+}
+
+
+header {
+    position: relative;
+    text-align: center;
+    color: navy;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    font:bold;
+    font-size: larger;
+}
+
+.colorfulmap {
+    margin: 0;
+    display: block;
+    width: 100%;
+}
+
+
+.centered-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+a { 
+    color:cornflowerblue
+}
+
+a:hover {
+    color:darkslategrey
+}
+
+h3, h4 { 
+    color: navy;
+}
+
+
+section.container1 {
+    padding: 50px;
+}
+    
+
+section.container2 {
+    padding: 50px;
+    background-color:navy;
+    border-radius: 10px;
+}
+
+
+section.container3 {
+    padding: 50px;
+}
+
+footer {
+
+}
