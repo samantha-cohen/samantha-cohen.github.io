@@ -12,15 +12,17 @@ header {
     text-align: center;
     color: navy;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
-    font: bold;
+    font-weight: bold;
     font-size: larger;
     padding-top: 70px;
+    width: 100%;
 }
 
 .colorfulmap {
     margin: 0;
     display: block;
     width: 100%;
+    height: auto;
 }
 
 
@@ -67,7 +69,7 @@ section.container3 {
 @media (max-width: 768px) {
     header {
         text-align: center;
-        padding: 10px ;
+        padding top: 20px ;
     }  
 }
   
