@@ -65,7 +65,7 @@ section.container3 {
 
 
 @media (max-width: 768px) {
-    h1 {
+    header {
         text-align: center;
         padding: 10px ;
     }  
