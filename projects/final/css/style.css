@@ -73,6 +73,14 @@ section.container3 {
     header {
         padding-top: 190px;
     }
-}
+    h2 {
+        font-size: 1em;
+    }
+
+    h3{
+        font-size: small;
+    }
+
+    }
 
   
