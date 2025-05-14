@@ -74,9 +74,12 @@ section.container3 {
         padding-top: 190px;
     }
     h2 {
-        font-size: 1em;
+        font-size: medium;
     }
-    
+    body {
+    font-size: small;
+    }   
+
     }
 
 
