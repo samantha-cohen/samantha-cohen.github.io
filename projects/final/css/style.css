@@ -16,13 +16,13 @@ header {
     font-size: larger;
     padding-top: 70px;
     width: 100%;
+    height: auto;
 }
 
 .colorfulmap {
     margin: 0;
     display: block;
     width: 100%;
-    height: auto;
 }
 
 
@@ -67,9 +67,12 @@ section.container3 {
 
 
 @media (max-width: 768px) {
-    header {
-        text-align: center;
-        padding top: 20px ;
+   h1 {
+       font-size: 2em;
     }  
+    header {
+        padding-top: 5em;
+    }
 }
+
   
