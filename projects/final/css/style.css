@@ -71,13 +71,24 @@ section.container3 {
        font-size: 2em;
     }  
     header {
-        padding-top: 190px;
+        padding-top: 120px;
     }
     h2 {
         font-size: medium;
     }
+
+    h3{
+        font-size: medium;
+    }
+
+    h4{
+        font-size: medium;
+    }
+    h5{
+        font-size: medium;
+    }
     body {
-    font-size: small;
+    font-size: medium;
     }   
 
     }
